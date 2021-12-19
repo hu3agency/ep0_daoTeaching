@@ -1,1 +1,1 @@
-polymathProcess is an open-source protocol for developing self-soverign subcultures.
+polymathProcess is an open-source protocol for encoding self-soverign subcultures.
