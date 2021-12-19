@@ -1,1 +1,1 @@
-polymathProcess is a Git Protocol for creating biomemetic subcultures.
+polymathProcess is an open-source protocol for developing self-soverign subcultures.
