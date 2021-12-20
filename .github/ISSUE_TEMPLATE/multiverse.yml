@@ -1,0 +1,18 @@
+name: :seedling: Seed a LongPlay (LP)
+description: Spawn your parallel reality in the huniverse
+title: "[polymathProcess] <name of your project>"
+labels: ["polymathProcess"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Completing the form below kicks off the process for creating your own LongPlay in the huniverse.
+  - type: input
+    id: gr0-ego-human-system
+    attributes:
+      label: gr0ourSource: ego
+      description: Humans subconsciously modeled our Language Institution from what concept or system? 
+      placeholder: ex. The Tao, the Universe, etc.
+      value: "A bug happened!"
+    validations:
+      required: true
