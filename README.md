@@ -6,3 +6,5 @@ This will be where we lay out the LongPlay's values encoded from the figma file.
 - Universe Explination
 - huniverse/myth explination
 - Call to action with links to other files (see other examples of this)
+
+Direct people to the Wiki to learn more.
