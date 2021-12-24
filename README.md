@@ -1,4 +1,4 @@
-polymathProcess is an open-source protocol for encoding self-soverign subcultures. 
+polymathProcess is an open-source protocol for encoding self-sovereign subcultures. 
 
 This will be where we lay out the LongPlay's values encoded from the figma file. This will be the more narrative form. 
 - Song
