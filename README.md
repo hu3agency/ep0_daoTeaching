@@ -1,3 +1,20 @@
+"It really is high time that, in many ways, the institution of the fool was reintroduced" - Alan Watts
+
+Where humans build mythologies
+People and brands build, ship, and maintain their LongPlays with the polymathProcess. The most important subcultural development platform in our entire imaginations.
+
+Give your creative experiments a home in the cloud
+Grow and coordinate an opensource community around your ideas. We're not too keen on building brand new apps, so for now, we're using GitHub to tap into it's +40m large opensource community.
+
+Don't Reinvent the Wheel
+Your LongPlay is created in a similar fashion to cell division in our bodies. An existing LongPlay is used to help you easily structure your project before breaking off into your own universe. Choose from our growing network of LPs to launch from a project that resonates with you.
+
+"More hands make the work go faster" - Wayne, Letterkenny
+Stronger ideas start with symbiosis --- build relationships around common interests and music. Give and receive support in our connected network of LPs to bring your project to life faster. 
+
+
+
+
 polymathProcess is an open-source protocol that uses music playlists and memes to create self-sovereign subcultures. Any person or brand can clone this repository to outline a decentralized strategy that empowers your community to influence the vision and strategy of your project. Below, we'll point you to a couple of different wikis to learn more about how to get started!
 
 This is a flexible framework that's meant to be available to anyone with an idea. Which of these best describes you?
