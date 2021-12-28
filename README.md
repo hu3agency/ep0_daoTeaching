@@ -1,6 +1,6 @@
 "It really is high time that, in many ways, the institution of the fool was reintroduced" - Alan Watts
 
-Where humans build mythologies
+How humans develop open-source mythologies
 People and brands build, ship, and maintain their LongPlays with the polymathProcess. The most important subcultural development platform in our entire imaginations.
 
 Give your creative experiments a home in the cloud
