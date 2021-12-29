@@ -1,5 +1,5 @@
 # huStory: We're All Right
-huStory is a story game about Earth, our collective ego death, and what it means to creatively engineer a new open source identity for The Planet. There's no limit to how many people can play, and the game lasts as long as humans do.
+huStory is a story game about Earth, our collective ego, and what it means to creatively engineer a new open source identity for The Planet. There's no limit to how many people can play, and the game lasts as long as humans do.
 
 _Let's break this down._
 
