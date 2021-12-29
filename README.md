@@ -4,7 +4,7 @@ This is a story game about Earth, our collective ego, and what it means to creat
 _Let's break this down._
 
 ## Story Game  
-"Story games are a structured way for people to tell stories together. The rules of the game help players invent fiction and share experiences that would be hard to craft from a blank page. In huStory, all players have equal authority and a shared stake in the narrative. By giving more of yourself, you'll get more from the game." - Dialect: A Game About Language and How it Dies  
+Story games make it easy for people to create collaborative mythologies. The polymathProcess provides an outline that makes it easy for players to share content that creates a story that's unique to them. The set structure allows different games to exchange information while maintaining their respective identities.  In huStory, all players are unified by their shared humanity and infinite weirdness. Every person has a shared stake in the narrative. If you add to huStory in any way, you're one of its co-creators.
   
 ## LongPlay (universe)
 In huStory, you'll define and explore a parallel universe based on what we do in our own reality. It's called a LongPlay (LP). In your LP, every human being exists as part of a single entity called "hu3" that's responsible for guiding the universe in a new direction using music and memes. Each LP's success rests on the ability of each player to explore their creative interests. As players transform their realities, they get to see their LPs mirror their collective growth.  
@@ -18,3 +18,5 @@ huStory's impact stems from allowing slow growth to take place across a decentra
 This is a new type of roleplaying game, because we are the actual characters. Our actions in the game will have a direct impact on our day to day lives. If you're excited about creating a New Earth, you've come to the right place. Don't worry about trying to understand all the rules. You'll learn how all this works by listening to music you love and exploring things that interest you.  
 
 Let's get you started with the first step in the game: Defining the Source of Your LongPlay (link to #beat0quote issue form)
+
+`These rules have been adapted from the amazing game called Dialect: A Game About Language and How it Dies`
