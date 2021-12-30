@@ -1,6 +1,6 @@
 # LP0_polymathProcess
 ## What is huStory?
-_huStory: We're All Right_ is an open source collection of story games about The Planet, our history (ego), and the memes that shape our reality. LP0_polymathProcess is huStory's genesis LongPlay that develops the default musical language system used by other games in the series. There's no player limit, and the game runs until people stop contributing.
+_huStory: We're All Right_ is an open source collection of story games about The Planet, our history (ego), and the memes that shape our reality. LP0_polymathProcess is huStory's genesis LongPlay that develops the musical language system that other games in the series use. There's no player limit, and the game runs until people stop contributing.
 
 _Let's clarify some of this..._
 
@@ -10,25 +10,18 @@ Story games make it easy for people to create collaborative mythologies. The gam
 This concept allows huStory to build a network of LongPlays that use shared story outlines so communities can exchange value and view their ideas from different perspectives. Note: If you add to huStory in any way, you're officially one of its co-creators.
   
 ### What's a LongPlay?
-In huStory, you'll define and explore a parallel universe based on what we do in our own reality. It's called a LongPlay (LP). In your LP, every human being exists as part of a single entity called "hu3" that's responsible for guiding the universe in a new direction using music and memes. Each LP's success rests on the ability of each player to explore their creative interests. As players transform their realities, they get to see their LPs mirror their collective growth.
+A LongPlay can be thought of as a portfolio for the different decentralized projects a community creates. Each LP is ultimately a representation of each players exploration of their own creative interests. As players transform their realities, they get to see their LPs mirror their collective growth.
 
+LP0_polymathProcess uses GitHub to allows people to share book quotes that set the tone for their avatar and the environment in the story game our community is creating.
 
-
-
-Players use polymathProcess to use book quotes to define the values of their avatar and 
-
-
-
-
+### Memes and Meaning 
+People add to huStory by sharing memes and music. As the game develops, the will branch into unexpected storylines that nobody will be able to predict, so we'll always have new ways to explore our minds, experiment with new ideas, and propose new ways for us to design society.
   
-### Meaning (meme-ing?) Making  
-You'll write your LongPlay's story by grouping music and memes to create what we call a mixtapeMythology. Over the course of the game, you'll create different content clusters (beatDrops) that define your LPs values, provide new perspectives of our reality, and how we can maturely respond to help The Planet achieve decentralized self mastery. You will use the content you create to explore yourself and advance the mythology of the LongPlay. Each time a new beat is added, the LP grows, and our shared reality evolves.  
+huStory's impact stems from allowing slow growth to take place across a distributed network of players all contributing to our open source vision for The Planet. How will you help tell our story?  
   
-huStory's impact stems from allowing slow growth to take place across a decentralized network of players all working towards a shared vision. The more we play, the more the game will transform...giving us an ever expanding system that no one person can ever fully explore. EpicPlaylists (EPs) represent different time periods in your LP, and just like in our reality, as time changes, so will your LP. Ultimately, you'll come to realize that every person has a direct impact on what The Planet does from now on. How will you help tell our story?  
-  
-### Players Welcome
-This is a new type of roleplaying game, because we are the actual characters. Our actions in the game will have a direct impact on our day to day lives. If you're excited about creating a New Earth, you've come to the right place. Don't worry about trying to understand all the rules. You'll learn how all this works by listening to music you love and exploring things that interest you.  
+### Define Your Reality
+This is a new type of roleplaying game, because people are free to add value to the ecosystem by explore new or old interests. huStory is a perfect way to experiment with potential new income streams in an extremely forgiving and supporting community. 
 
-Let's get you started with the first step in the game: Defining the Source of Your LongPlay (link to #beat0quote issue form)
+Don't worry about trying to understand all the rules. You'll learn more and more as you work through the steps. Let's get you started with the first step in the game: Defining the Source of Your LongPlay (link to #beat0quote issue form)
 
 `This description was remixed from the rules of Dialect: A Game About Language and How it Dies (thornygames.com)`
