@@ -1,4 +1,4 @@
-`The wording for these rules were adapted from a super interesting game called Dialect: A Game About Language and How it Dies (thornygames.com)`
+`The wording below is a remix of the rules from Dialect: A Game About Language and How it Dies (thornygames.com)`
 
 # huStory: We're All Right
 This is a story game about Earth, our collective ego, and what it means to creatively engineer a new open source identity for The Planet. There's no limit to how many people can play, and the game lasts as long as humans do.
