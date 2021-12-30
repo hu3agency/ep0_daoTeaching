@@ -1,3 +1,5 @@
+`The wording for these rules were adapted from a super interesting game called [Dialect: A Game About Language and How it Dies](https://thornygames.com)`
+
 # huStory: We're All Right
 This is a story game about Earth, our collective ego, and what it means to creatively engineer a new open source identity for The Planet. There's no limit to how many people can play, and the game lasts as long as humans do.
 
@@ -18,5 +20,3 @@ huStory's impact stems from allowing slow growth to take place across a decentra
 This is a new type of roleplaying game, because we are the actual characters. Our actions in the game will have a direct impact on our day to day lives. If you're excited about creating a New Earth, you've come to the right place. Don't worry about trying to understand all the rules. You'll learn how all this works by listening to music you love and exploring things that interest you.  
 
 Let's get you started with the first step in the game: Defining the Source of Your LongPlay (link to #beat0quote issue form)
-
-`These rules have been adapted from the amazing game called Dialect: A Game About Language and How it Dies`
