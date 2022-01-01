@@ -1,4 +1,4 @@
-# LP0_polymathProcess
+# polymathProcess (LP0)
 ## What is huStory?
 _huStory: We're All Right_ is an open source collection of story games about The Planet, our history (ego), and the memes that shape our reality. LP0_polymathProcess is huStory's genesis LongPlay that develops the musical language system that other games in the series use. There's no player limit, and the game runs until people stop contributing.
 
