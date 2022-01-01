@@ -1,6 +1,6 @@
 # polymathProcess (LP0)
 ## What is huStory?
-_huStory: We're All Right_ is an open source collection of story games about The Planet, our history (ego), and the memes that shape our reality. LP0_polymathProcess is huStory's genesis LongPlay that develops the musical language system that other games in the series use. There's no player limit, and the game runs until people stop contributing.
+_huStory: We're All Right_ is an open source collection of story games about The Planet, our ego, and the memes that shape our reality. polymathProcess is huStory's genesis LongPlay that develops the musical language system that other games in the series use. There's no player limit, and the game runs until people stop contributing.
 
 _Let's clarify some of this..._
 
@@ -12,7 +12,7 @@ This concept allows huStory to build a network of LongPlays that use shared stor
 ### What's a LongPlay?
 A LongPlay can be thought of as a portfolio for the different decentralized projects a community creates. Each LP is ultimately a representation of each players exploration of their own creative interests. As players transform their realities, they get to see their LPs mirror their collective growth.
 
-LP0_polymathProcess uses GitHub to allows people to share book quotes that set the tone for their avatar and the environment in the story game our community is creating.
+In huStory, each LP represents a Kalpavriksha Tree in the expanding forest gardens we grow with out imaginations. We use GitHub to allow people to share book quotes that define the water, soil, and avatars that support each LPs growth and maturity.
 
 ### Memes and Meaning 
 People add to huStory by sharing memes and music. As the game develops, the will branch into unexpected storylines that nobody will be able to predict, so we'll always have new ways to explore our minds, experiment with new ideas, and propose new ways for us to design society.
