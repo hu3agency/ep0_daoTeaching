@@ -1,7 +1,7 @@
 name: Define Your LongPlay - gr0ourSource
 description: Share the song and three book quotes that will inform our Language Institution and define your persona in huStory.
 title: "[gr0ourSource Definition] <name of you/your project>"
-labels: "good first issue"
+labels: ["good first issue"]
 body:
   - type: markdown
     attributes:
