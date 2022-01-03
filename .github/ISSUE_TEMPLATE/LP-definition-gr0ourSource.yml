@@ -15,26 +15,3 @@ body:
       placeholder: "0.00 by Childish Gambino"
     validations:
       required: true
-  - type: input
-    id: gr0v1biomimicry
-    attributes:
-      label: gr0v1biomimicry_
-      description: Choose a book title related to the human body or human experience.
-      placeholder: "The Polymath by Waqas Ahmed"
-    validations:
-      required: true
-  - type: input
-    id: gr0v2ego
-    attributes:
-      label: gr0v2ego_
-      description: Choose a book title that outlines characteristics you and your project strive for.
-      placeholder: "A New Earth by Eckhart Tolle"
-    validations:
-      required: true
-  - type: input
-    id: gr0v3mission
-    attributes:
-      label: gr0v3mission_
-      description: Choose a book title that will set the tone for how you and your project take action.
-      placeholder: "Tao Te Ching by Lao Tzu"
-    validations: true
