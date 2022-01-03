@@ -5,7 +5,8 @@ labels: ["good first issue"]
 body:
   - type: markdown
     attributes:
-      value: In huStory, all of the posts we share are called beats. They represent the DNA of the LongPlays that we grow. LongPlays are Kalpavriksha Forest Gardens that we grow in our minds. LP0_polymathProcess is focused on decentralizing our language system with chill music and meaningful book quotes. In the huniverse, adding the following three book quotes represent prophase in this LongPlay's cell division.
+      value: |
+        In huStory, all of the posts we share are called beats. They represent the DNA of the LongPlays that we grow. LongPlays are Kalpavriksha Forest Gardens that we grow in our minds. LP0_polymathProcess is focused on decentralizing our language system with chill music and meaningful book quotes. In the huniverse, adding the following three book quotes represent prophase in this LongPlay's cell division.
   - type: input
     id: gr0v0song
     attributes:
