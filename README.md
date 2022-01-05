@@ -1,6 +1,6 @@
 # polymathProcess (LP0)
 ## What is huStory?
-_huStory: We're All Right_ is an open source collection of projects for The Planet, our ego, and the memes that shape our reality. polymathProcess is huStory's genesis LongPlay that develops the memetic outline that makes it easier for communities to collaborate while transforming any project into an engaging story game that involves their broader community. There's no player limit, and the projects run until people stop contributing.
+_huStory: We're All Right_ is an open source collection of projects for The Planet, our ego, and the memes that shape our reality. polymathProcess is huStory's genesis LongPlay that develops the memetic outline that makes it easier for communities to collaborate while transforming any project into an original story game that engages a broad community. There's no player limit, and the projects run until people stop contributing.
 
 _Let's clarify some of this..._
 
