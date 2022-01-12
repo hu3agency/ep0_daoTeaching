@@ -1,4 +1,8 @@
-# polymathProcess (LP0)
+# b0mission/oS
+b0mission is an ourStory Framework for using music & book quotes to define the language & mission for any open source community. The architecture of b0mission/oS aims to be accessible to any community that wants to add depth and context to their shared vision. b0mission provides the foundation for the other buildig blocks from the ourStory Protocol. After completing the b0mission equation, you'll be on your way to creating a self-soverign ecosystem for your open source project.
+## Hash Function
+
+
 ## What is huStory?
 _huStory: We're All Right_ is an open source collection of projects for The Planet, our ego, and the memes that shape our reality. polymathProcess is huStory's genesis LongPlay that develops the memetic outline that makes it easier for communities to collaborate while transforming any project into an original story game that engages a broad community. There's no player limit, and the projects run until people stop contributing.
 
