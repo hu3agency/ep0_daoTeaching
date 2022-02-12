@@ -1,6 +1,15 @@
 
 ```
 {
+  mixtapeMythology: {
+    bioMemeticAPI:                   "369API",
+    bioMemeticBlobchain:             "ourStory_Everything Is Music",
+    bioMemeticOrganization:          "huStory_Are We Right?",
+    bioMemeticSetting:               "chakras",
+    bioMemeticTreeSystem:            "soil",
+    longPlay:                        "lp0_polymathProcess",
+    epicPlaylist:                    "ep0_lessonPlan",
+  },
   b0mission: {
     gr0v0ego: {
       institution:                 "language",
