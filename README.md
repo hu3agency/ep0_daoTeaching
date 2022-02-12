@@ -1,3 +1,61 @@
+let b0mission/LP = SHA256(gr0ourSource);
+
+let gr0ourSource = {
+  longPlay:        "LP_NAME",
+  epicPlaylist:    "EP_Name",
+  gr0v0song:       "SONG_NAME by ARTIST",
+  gr0v1ego:        "BOOK_TITLE by AUTHOR",
+  gr0v2biomimicry: "BOOK_TITLE by AUTHOR",
+  gr0v3willpower:  "BOOK_TITLE by AUTHOR"
+};
+
+```
+{
+  b0mission: {
+    gr0v0ego: {
+      institution:              "language",
+      collectiveChallenge:      "polarization",
+      collectiveEgo:            "fear",
+      institution:              "language",
+      bookEgoTitle:             "A New Earth: Awakening to Your Life's Purpose",
+      bookEgoAuthor:            "Eckhart Tolle"
+    },
+    gr0v1biomimicry: {
+      natureMentor:             "cell",
+      mentorBenefit:            "growth",
+      bookBioTitle:             "Tao Te Ching",
+      bookBioAuthor:            "Lao Tzu (Stephen Mitchell Translation)"
+    },
+    gr0v2willpower: {
+      bookWillTitle:            "The Polymath: Unlocking the Power of Human Versatility",
+      bookWillAuthor:           "Waqas Ahmed"
+    },
+    gr0v3song: {
+      songTitle:                "0.00",
+      songArtist:               "Childish Gambino"
+  },
+  b1community: {
+    gr1v0decentralization: {
+      industry:                 "Human Resources",
+      service:                  "ourStory blObChain Framework",
+      serviceInspiration:       "Substrate",
+      serviceInspiractionURL:   "https://substrate.io"
+    },
+    gr1v1space: {
+      communityProject:         "Groundwater Recharge Projects",
+      communityProjectExample:  "
+      promotedProject:          "Parley for the Oceans",
+      promotedProjectURL:       "https://www.parley.tv/",
+ ```     
+      
+      
+      
+      
+
+
+
+
+
 # b0mission/LP
 b0mission is an ourStory Framework for using music & book quotes to define the language & mission for any open source community. The architecture of b0mission/oS aims to be accessible to any community that wants to add depth and context to their shared vision. b0mission provides the foundation for the other buildig blocks from the ourStory Protocol. After completing the b0mission equation, you'll be on your way to creating a self-soverign ecosystem for your open source project.
 
