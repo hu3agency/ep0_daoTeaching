@@ -2,8 +2,8 @@
 ```
 mixtapeMythology: {
   bioMemeticRecordStore:           "369API",
-  bioMemeticBlobchain:             "ourStory: Everything Is Music",
-  biomimeticLanguageOrientedBlob:  "huStory: Are We Right?",
+  bioMemeticOrchestra:             "ourStory: Everything Is Music",
+  bioLinguisticOrganicBook:        "huStory: Are We Right?",
   longPlay:                        "lp0_polymathProcess",
   epicPlaylist:                    "ep0_lessonPlan",
   epTreeSystem:                    "soil",
