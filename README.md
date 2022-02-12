@@ -1,77 +1,77 @@
 
 ```
-{
-  mixtapeMythology: {
-    bioMemeticAPI:                   "369API",
-    bioMemeticBlobchain:             "ourStory_Everything Is Music",
-    bioMemeticOrganization:          "huStory_Are We Right?",
-    bioMemeticSetting:               "chakras",
-    bioMemeticTreeSystem:            "soil",
-    longPlay:                        "lp0_polymathProcess",
-    epicPlaylist:                    "ep0_lessonPlan",
-  },
+mixtapeMythology: {
+  bioMemeticRecordStore:           "369API",
+  bioMemeticBlobchain:             "ourStory: Everything Is Music",
+  biomimeticLanguageOrientedBlob:  "huStory: Are We Right?",
+  longPlay:                        "lp0_polymathProcess",
+  epicPlaylist:                    "ep0_lessonPlan",
+  epTreeSystem:                    "soil",
+  epHumanSystem:                   "chakras",
   b0mission: {
+    groove:                          "gr0ourSource",
     gr0v0ego: {
-      institution:                 "language",
-      collectiveChallenge:         "polarization",
-      collectiveEgo:               "fear",
-      institution:                 "language",
-      bookEgoTitle:                "A New Earth: Awakening to Your Life's Purpose",
-      bookEgoAuthor:               "Eckhart Tolle"
+      institution:                   "language",
+      collectiveChallenge:           "polarization",
+      collectiveEgo:                 "fear",
+      institution:                   "language",
+      bookEgoTitle:                  "A New Earth: Awakening to Your Life's Purpose",
+      bookEgoAuthor:                 "Eckhart Tolle"
     },
     gr0v1biomimicry: {
-      natureMentor:                "cell",
-      mentorBenefit:               "growth",
-      bookBioTitle:                "Tao Te Ching",
-      bookBioAuthor:               "Lao Tzu (Stephen Mitchell Translation)"
+      natureMentor:                  "cell",
+      mentorBenefit:                 "growth",
+      bookBioTitle:                  "Tao Te Ching",
+      bookBioAuthor:                 "Lao Tzu (Stephen Mitchell Translation)"
     },
     gr0v2willpower: {
-      bookWillTitle:               "The Polymath: Unlocking the Power of Human Versatility",
-      bookWillAuthor:              "Waqas Ahmed"
+      bookWillTitle:                 "The Polymath: Unlocking the Power of Human Versatility",
+      bookWillAuthor:                "Waqas Ahmed"
     },
     gr0v3song: {
-      songTitle:                   "0.00",
-      songArtist:                  "Childish Gambino"
+      songTitle:                     "0.00",
+      songArtist:                    "Childish Gambino"
     }
   },
   b1community: {
     gr1v0decentralization: {
-      industry:                    "Human Resources",
-      service:                     "ourStory blObChain Framework",
-      serviceInspiration:          "Substrate",
-      serviceInspiractionURL:      "https://substrate.io"
+      industry:                      "Human Resources",
+      service:                       "onboarding protocol",
+      focus:                         "369API",
+      serviceInspiration:            "Substrate",
+      serviceInspiractionURL:        "https://substrate.io"
     },
     gr1v1space: {
-      communityProject:            "Groundwater Recharge Projects",
-      communityProjectExampleURL:  "https://youtu.be/SbSmjzj9K94",
-      promotedProject:             "Parley for the Oceans",
-      promotedProjectURL:          "https://www.parley.tv/"
+      communityProject:              "Groundwater Recharge Projects",
+      communityProjectExampleURL:    "https://youtu.be/SbSmjzj9K94",
+      promotedProject:               "Parley for the Oceans",
+      promotedProjectURL:            "https://www.parley.tv/"
     },
     gr1v2time: {
-      b0missionDeliverable:        "Open Source Mission",
-      b0missionDate:               "TBD",
-      b1communityDeliverable:      "Platform Design Brief",
-      b1communityDate:             "TBD",
-      b2mediaDeliverable:          "Brand Outline",
-      b2mediaDate:                 "TBD",
-      b3nowDeliverable:            "Content Marketing Strategy",
-      b3nowDate:                   "TBD",
-      b4portfolioDeliverable:      "NFT Marketplace",
-      b4portfolioDate:             "TBD",
-      b5essayDeliverable:          "Lightpaper",
-      b5essayDate:                 "TBD",
-      b6storyDeliverable:          "Storyboard",
-      b6storyDate:                 "TBD",
-      b7learn:                     "Curriculum Strategy",
-      b7learnDate:                 "TBD",
-      b8play:                      "Community Game Concept",
-      b8playDate:                  "TBD",
-      b9journal:                   "Bullet Journal Spread",
-      b9journalDate:               "TBD"
+      b0missionDeliverable:          "Open Source Mission",
+      b0missionDate:                 "TBD",
+      b1communityDeliverable:        "Platform Design Brief",
+      b1communityDate:               "TBD",
+      b2mediaDeliverable:            "Brand Outline",
+      b2mediaDate:                   "TBD",
+      b3nowDeliverable:              "Content Marketing Strategy",
+      b3nowDate:                     "TBD",
+      b4portfolioDeliverable:        "NFT Marketplace",
+      b4portfolioDate:               "TBD",
+      b5essayDeliverable:            "Lightpaper",
+      b5essayDate:                   "TBD",
+      b6storyDeliverable:            "Storyboard",
+      b6storyDate:                   "TBD",
+      b7learn:                       "Curriculum Strategy",
+      b7learnDate:                   "TBD",
+      b8play:                        "Community Game Concept",
+      b8playDate:                    "TBD",
+      b9journal:                     "Bullet Journal Spread",
+      b9journalDate:                 "TBD"
     },
     gr1v3song: {
-      songTitle:                   "Mirage",
-      songArtist:                  "Toro y Moi"
+      songTitle:                     "Mirage",
+      songArtist:                    "Toro y Moi"
     }
   },
   b2media: {
@@ -85,8 +85,8 @@
     
     },
     gr2v3song: {
-      songTitle:                   "Permission To Love",
-      songArtist:                  "Hayden James"
+      songTitle:                     "Permission To Love",
+      songArtist:                    "Hayden James"
     }
   },
   b3now: {
@@ -100,8 +100,8 @@
     
     },
     gr3v3song: {
-      songTitle:                   "Japanese Ceremonial Tea (Interlude)",
-      songArtist:                  "The Electric Sons"
+      songTitle:                     "Japanese Ceremonial Tea (Interlude)",
+      songArtist:                    "The Electric Sons"
     }
   },
   b4portfolio: {
@@ -115,8 +115,8 @@
     
     },
     gr4v3song: {
-      songTitle:                   "They Say I'm Different",
-      songArtist:                  "Betty Davis"
+      songTitle:                     "They Say I'm Different",
+      songArtist:                    "Betty Davis"
     }
   },
   b5essay: {
@@ -130,8 +130,8 @@
     
     },
     gr5v3song: {
-      songTitle:                   "Free Spirit",
-      songArtist:                  "Spiritual Tony"
+      songTitle:                     "Free Spirit",
+      songArtist:                    "Spiritual Tony"
     }
   },
   b6story: {
@@ -145,8 +145,8 @@
     
     },
     gr6v3song: {
-      songTitle:                   "Generationwhy",
-      songArtist:                  "ZHU"
+      songTitle:                     "Generationwhy",
+      songArtist:                    "ZHU"
     }
   },
   b7learn: {
@@ -160,8 +160,8 @@
     
     },
     gr7v3song: {
-      songTitle:                   "Canopee",
-      songArtist:                  "Polo & Pan"
+      songTitle:                     "Canopee",
+      songArtist:                    "Polo & Pan"
     }
   },
   b8play: {
@@ -175,8 +175,8 @@
     
     },
     gr8v3song: {
-      songTitle:                   "Backroads",
-      songArtist:                  "Tall Tall Trees"
+      songTitle:                     "Backroads",
+      songArtist:                    "Tall Tall Trees"
     }
   },
   b9journal: {
