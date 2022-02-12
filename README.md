@@ -91,13 +91,19 @@ mixtapeMythology: {
   },
   b3now: {
     gr3v0shadow: {
-    
+      shadow:                        "Censorship",
+      audio:                         "Dave Chappelle",
+      video:                         "Storms"
     },
     gr3v1presence: {
-    
+      presence:                      "Empathy",
+      audio:                         "Insight Timer",
+      video:                         "Soil"
     },
     gr3v2music: {
-    
+      music:                         "Schuman Resonance",
+      audio:                         "Kev Thompson Music",
+      video:                         "Water"
     },
     gr3v3song: {
       songTitle:                     "Japanese Ceremonial Tea (Interlude)",
