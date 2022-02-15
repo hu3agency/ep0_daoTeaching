@@ -1,13 +1,13 @@
 
 ```
 mixtapeMythology: {
-  bioMemeticRecordStore:           "369API",
-  bioMemeticOrganization:          "ourStory: Everything Is Music",
-  bioLinguisticOrganicBook:        "huStory: Are We Right?",
-  longPlay:                        "lp0_polymathProcess",
-  epicPlaylist:                    "ep0_lessonPlan",
-  epTreeSystem:                    "soil",
-  epHumanSystem:                   "chakras",
+  bioMemeticRecordStore:             "369API",
+  bioMemeticOrganization:            "ourStory: Everything Is Music",
+  bioLinguisticOrganicBook:          "huStory: Are We Right?",
+  longPlay:                          "lp0_polymathProcess",
+  epicPlaylist:                      "ep0_lessonPlan",
+  epTreeSystem:                      "soil",
+  epHumanSystem:                     "chakras",
   b0mission: {
     groove:                          "gr0ourSource",
     gr0v0ego: {
@@ -52,13 +52,14 @@ mixtapeMythology: {
       promotedProjectURL:            "https://www.parley.tv/"
     },
     gr1v2time: {
+      deliverableFormat:             "Design Concept",
       b0missionDeliverable:          "Open Source Mission",
       b0missionDate:                 "TBD",
-      b1communityDeliverable:        "Platform Design Brief",
+      b1communityDeliverable:        "Decentralized Autonomous Organization (DAO)",
       b1communityDate:               "TBD",
-      b2mediaDeliverable:            "Brand Outline",
+      b2mediaDeliverable:            "Brand Identity",
       b2mediaDate:                   "TBD",
-      b3nowDeliverable:              "Content Marketing Strategy",
+      b3nowDeliverable:              "Content Marketing",
       b3nowDate:                     "TBD",
       b4portfolioDeliverable:        "NFT Marketplace",
       b4portfolioDate:               "TBD",
@@ -66,11 +67,11 @@ mixtapeMythology: {
       b5essayDate:                   "TBD",
       b6storyDeliverable:            "Storyboard",
       b6storyDate:                   "TBD",
-      b7learn:                       "Curriculum Strategy",
+      b7learn:                       "Curriculum",
       b7learnDate:                   "TBD",
-      b8play:                        "Community Game Concept",
+      b8play:                        "Community Game",
       b8playDate:                    "TBD",
-      b9journal:                     "Bullet Journal Spread",
+      b9journal:                     "Bullet Journal",
       b9journalDate:                 "TBD"
     },
     gr1v3song: {
