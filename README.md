@@ -56,6 +56,7 @@ mixtapeMythology: {
       b0missionDeliverable:          "Open Source Mission",
       b0missionDate:                 "2022 02 15",
       b0missionURL:                  "https://twitter.com/PolymathProcess/status/1493657072126332933",
+      b0missionPOW:                  "TBD",
       b1communityDeliverable:        "Decentralized Autonomous Organization (DAO)",
       b1communityDate:               "TBD",
       b2mediaDeliverable:            "Brand Identity",
