@@ -2,7 +2,7 @@
 ```
 mixtapeMythology: {
   bioMemeticRecordStore:           "369API",
-  bioMemeticOrchestra:             "ourStory: Everything Is Music",
+  bioMemeticOrganization:          "ourStory: Everything Is Music",
   bioLinguisticOrganicBook:        "huStory: Are We Right?",
   longPlay:                        "lp0_polymathProcess",
   epicPlaylist:                    "ep0_lessonPlan",
@@ -16,21 +16,25 @@ mixtapeMythology: {
       collectiveEgo:                 "fear",
       institution:                   "language",
       bookEgoTitle:                  "A New Earth: Awakening to Your Life's Purpose",
-      bookEgoAuthor:                 "Eckhart Tolle"
+      bookEgoAuthor:                 "Eckhart Tolle",
+      gr0v0Output:                   "The Planet's __language__ institution is allowing egoic __fear__ to contribute to the universal challenge of __polarization__. We learn from __A New Earch: Awakening to Your Life's Purpose__ by __Eckhart Tolle__ to help deepen our understanding of our collective ego."
     },
     gr0v1biomimicry: {
-      natureMentor:                  "cell",
+      natureMentor:                  "cells",
       mentorBenefit:                 "growth",
       bookBioTitle:                  "Tao Te Ching",
-      bookBioAuthor:                 "Lao Tzu (Stephen Mitchell Translation)"
+      bookBioAuthor:                 "Lao Tzu (Stephen Mitchell Translation)",
+      gr0v1Output:                   "__Cells__ use __polarization__ to create __growth__. We learn from __Tao Te Ching__ by __Lao Tzu__ to explore biomemetic perspectives for our universal challenges.
     },
     gr0v2willpower: {
       bookWillTitle:                 "The Polymath: Unlocking the Power of Human Versatility",
-      bookWillAuthor:                "Waqas Ahmed"
+      bookWillAuthor:                "Waqas Ahmed",
+      gr0v2Output:                   "We are developing an open source game that learns from __cells__ so we can create __growth__ through __polarization__. We learn from __The Polymath__ by __Waqas Ahmed__ to help define how we operate.
     },
     gr0v3song: {
       songTitle:                     "0.00",
-      songArtist:                    "Childish Gambino"
+      songArtist:                    "Childish Gambino",
+      gr0v3song:                     "__0.00__ by __Childish Gambino__ represents our project's mission.
     }
   },
   b1community: {
