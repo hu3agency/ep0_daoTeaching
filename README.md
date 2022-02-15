@@ -24,17 +24,17 @@ mixtapeMythology: {
       mentorBenefit:                 "growth",
       bookBioTitle:                  "Tao Te Ching",
       bookBioAuthor:                 "Lao Tzu (Stephen Mitchell Translation)",
-      gr0v1Output:                   "__Cells__ use __polarization__ to create __growth__. We learn from __Tao Te Ching__ by __Lao Tzu__ to explore biomemetic perspectives for our universal challenges.
+      gr0v1Output:                   "__Cells__ use __polarization__ to create __growth__. We learn from __Tao Te Ching__ by __Lao Tzu__ to explore biomemetic perspectives for our universal challenges."
     },
     gr0v2willpower: {
       bookWillTitle:                 "The Polymath: Unlocking the Power of Human Versatility",
       bookWillAuthor:                "Waqas Ahmed",
-      gr0v2Output:                   "We are developing an open source game that learns from __cells__ so we can create __growth__ through __polarization__. We learn from __The Polymath__ by __Waqas Ahmed__ to help define how we operate.
+      gr0v2Output:                   "We are developing an open source game that learns from __cells__ so we can create __growth__ through __polarization__. We learn from __The Polymath__ by __Waqas Ahmed__ to help define how we operate."
     },
     gr0v3song: {
       songTitle:                     "0.00",
       songArtist:                    "Childish Gambino",
-      gr0v3song:                     "__0.00__ by __Childish Gambino__ represents our project's mission.
+      gr0v3song:                     "__0.00__ by __Childish Gambino__ represents our project's mission."
     }
   },
   b1community: {
@@ -54,7 +54,8 @@ mixtapeMythology: {
     gr1v2time: {
       deliverableFormat:             "Design Concept",
       b0missionDeliverable:          "Open Source Mission",
-      b0missionDate:                 "TBD",
+      b0missionDate:                 "2022 02 15",
+      b0missionURL:                  "https://twitter.com/PolymathProcess/status/1493657072126332933",
       b1communityDeliverable:        "Decentralized Autonomous Organization (DAO)",
       b1communityDate:               "TBD",
       b2mediaDeliverable:            "Brand Identity",
