@@ -3,7 +3,7 @@
 mixtapeMythology: {
   bioMemeticRecordStore:             "369API",
   bioMemeticOrganization:            "ourStory: Everything Is Music",
-  bioLinguisticOrganicBook:          "huStory: Are We Right?",
+  bioLinguisticOrgBook:              "huStory: Are We Right?",
   longPlay:                          "lp0_polymathProcess",
   epicPlaylist:                      "ep0_lessonPlan",
   epTreeSystem:                      "soil",
