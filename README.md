@@ -1,6 +1,6 @@
 
 ```
-mixtapeMythology: {
+epicPlaylist: {
   bioMemeticRecordStore:             "369API",
   bioMemeticOrganization:            "ourStory: Everything Is Music",
   bioLinguisticOrgBook:              "huStory: Are We Right?",
