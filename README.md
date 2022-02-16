@@ -11,8 +11,11 @@ mixtapeMythology: {
   b0mission: {
     groove:                          "gr0ourSource",
     gr0v0ego: {
+      institutionQuestion:           "What global institution will you expplore? (ex. language, mass media, economic, etc.)"
       institution:                   "language",
+      collectiveChallengeQuestion:   "Can you name a challenge that is created by the institution you selected? (ex. polarization, division, tribalism, etc.)"
       collectiveChallenge:           "polarization",
+      collectiveEgoQuestion:         "What do you think is causing the challenge you selected? (ex. fear, confusion, anger, etc.)"
       collectiveEgo:                 "fear",
       institution:                   "language",
       bookEgoTitle:                  "A New Earth: Awakening to Your Life's Purpose",
