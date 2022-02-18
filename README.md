@@ -1,26 +1,25 @@
-
 ```
-epicPlaylist: {
-  bioMemeticRecordStore:             "369API",
-  bioMemeticOrganization:            "ourStory: Everything Is Music",
-  bioLinguisticOrgBook:              "huStory: Are We Right?",
+ep0_lessonPlan: {
+  ourStoryRecordStore:               "432API",
+  bioMemeticOrganization:            "huStory: Are We Right?",
   longPlay:                          "lp0_polymathProcess",
-  epicPlaylist:                      "ep0_lessonPlan",
-  epTreeSystem:                      "soil",
-  epHumanSystem:                     "chakras",
   b0mission: {
     groove:                          "gr0ourSource",
     gr0v0ego: {
-      institutionQuestion:           "What global institution will you expplore? (ex. language, mass media, economic, etc.)"
+      institutionQuestion:           "What global institution will you explore?"
       institution:                   "language",
-      collectiveChallengeQuestion:   "Can you name a challenge that is created by the institution you selected? (ex. polarization, division, tribalism, etc.)"
-      collectiveChallenge:           "polarization",
-      collectiveEgoQuestion:         "What do you think is causing the challenge you selected? (ex. fear, confusion, anger, etc.)"
-      collectiveEgo:                 "fear",
-      institution:                   "language",
+
+      challengeQuestion:             "What challenge does this institution create?"
+      challenge:                     "polarization",
+
+      egoQuestion:                   "What do you think is causing this challenge?"
+      ego:                           "fear",
+
+      bookEgoQuestion:               “What book will represent this epicPlaylist’s persona?”,
       bookEgoTitle:                  "A New Earth: Awakening to Your Life's Purpose",
       bookEgoAuthor:                 "Eckhart Tolle",
-      gr0v0Output:                   "The Planet's __language__ institution is allowing egoic __fear__ to contribute to the universal challenge of __polarization__. We learn from __A New Earch: Awakening to Your Life's Purpose__ by __Eckhart Tolle__ to help deepen our understanding of our collective ego."
+
+      gr0v0Output:                   "The Planet's __language__ institution is allowing egoic __fear__ to contribute to the universal challenge of __polarization__. We learn from __A New Earth: Awakening to Your Life's Purpose__ by __Eckhart Tolle__ to help deepen our understanding of our collective ego."
     },
     gr0v1biomimicry: {
       natureMentor:                  "cells",
@@ -30,6 +29,7 @@ epicPlaylist: {
       gr0v1Output:                   "__Cells__ use __polarization__ to create __growth__. We learn from __Tao Te Ching__ by __Lao Tzu__ to explore biomemetic perspectives for our universal challenges."
     },
     gr0v2willpower: {
+      goal:                          “
       bookWillTitle:                 "The Polymath: Unlocking the Power of Human Versatility",
       bookWillAuthor:                "Waqas Ahmed",
       gr0v2Output:                   "We are developing an open source game that learns from __cells__ so we can create __growth__ through __polarization__. We learn from __The Polymath__ by __Waqas Ahmed__ to help define how we operate."
@@ -41,10 +41,11 @@ epicPlaylist: {
     }
   },
   b1community: {
+    groove:                          “gr1ourJourney”,
     gr1v0decentralization: {
       industry:                      "Human Resources",
       service:                       "onboarding protocol",
-      focus:                         "369API",
+      focus:                         "432API",
       serviceInspiration:            "Substrate",
       serviceInspiractionURL:        "https://substrate.io"
     },
@@ -55,30 +56,66 @@ epicPlaylist: {
       promotedProjectURL:            "https://www.parley.tv/"
     },
     gr1v2time: {
-      deliverableFormat:             "Design Concept",
-      b0missionDeliverable:          "Open Source Mission",
-      b0missionDate:                 "2022 02 15",
-      b0missionURL:                  "https://twitter.com/PolymathProcess/status/1493657072126332933",
-      b0missionPOW:                  "TBD",
-      b1communityDeliverable:        "Decentralized Autonomous Organization (DAO)",
-      b1communityDate:               "TBD",
-      b2mediaDeliverable:            "Brand Identity",
-      b2mediaDate:                   "TBD",
-      b3nowDeliverable:              "Content Marketing",
-      b3nowDate:                     "TBD",
-      b4portfolioDeliverable:        "NFT Marketplace",
-      b4portfolioDate:               "TBD",
-      b5essayDeliverable:            "Lightpaper",
-      b5essayDate:                   "TBD",
-      b6storyDeliverable:            "Storyboard",
-      b6storyDate:                   "TBD",
-      b7learn:                       "Curriculum",
-      b7learnDate:                   "TBD",
-      b8play:                        "Community Game",
-      b8playDate:                    "TBD",
-      b9journal:                     "Bullet Journal",
-      b9journalDate:                 "TBD"
-    },
+      b0mission: {
+        deliverableFormat:           “Open Source Mission: Concept Design”,
+        deliverableDate:             “2022 02 15”
+        deliverableURL:              “https://twitter.com/PolymathProcess/status/1493657072126332933",
+        deliverablePOW:              “[link to b0mission folder on GitHub]”
+      },
+      b1community: {
+        deliverableFormat:           “Open Source Community: Concept Design”,
+        deliverableDate:             “YYYY MM DD”
+        deliverableURL:              “TBD”
+        deliverablePOW:              “[link to b1community folder on GitHub]”
+      },
+      b2media: {
+        deliverableFormat:           “Brand Identity: Concept Design”,
+        deliverableDate:             “YYYY MM DD”
+        deliverableURL:              “TBD”
+        deliverablePOW:              “[link to b2media folder on GitHub]”
+      },
+      b3now: {
+        deliverableFormat:           “Marketing Strategy: Concept Design”,
+        deliverableDate:             “YYYY MM DD”
+        deliverableURL:              “TBD”
+        deliverablePOW:              “[link to b3now folder on GitHub]”
+      },
+      b4portfolio: {
+        deliverableFormat:           “Marketplace: Concept Design”,
+        deliverableDate:             “YYYY MM DD”
+        deliverableURL:              “TBD”
+        deliverablePOW:              “[link to b4portfolio folder on GitHub]”
+      },
+      b5essay: {
+        deliverableFormat:           “Litepaper: Concept Design”,
+        deliverableDate:             “YYYY MM DD”
+        deliverableURL:              “TBD”
+        deliverablePOW:              “[link to b5essay folder on GitHub]”
+      },
+      b6story: {
+        deliverableFormat:           “Storyboard: Concept Design”,
+        deliverableDate:             “YYYY MM DD”
+        deliverableURL:              “TBD”
+        deliverablePOW:              “[link to b6story folder on GitHub]”
+      },
+      b7learn: {
+        deliverableFormat:           “Curriculum: Concept Design”,
+        deliverableDate:             “YYYY MM DD”
+        deliverableURL:              “TBD”
+        deliverablePOW:              “[link to b7learn folder on GitHub]”
+      },
+      b8play: {
+        deliverableFormat:           “Community Game: Concept Design”,
+        deliverableDate:             “YYYY MM DD”
+        deliverableURL:              “TBD”
+        deliverablePOW:              “[link to b8play folder on GitHub]”
+      },
+      b9journal: {
+        deliverableFormat:           “Note Taking Strategy: Concept Design”,
+        deliverableDate:             “YYYY MM DD”
+        deliverableURL:              “TBD”
+        deliverablePOW:              “[link to b9journal folder on GitHub]”
+      },
     gr1v3song: {
       songTitle:                     "Mirage",
       songArtist:                    "Toro y Moi"
@@ -101,19 +138,20 @@ epicPlaylist: {
   },
   b3now: {
     gr3v0shadow: {
-      shadow:                        "Censorship",
-      audio:                         "Dave Chappelle",
+      focus:                         "censorship",
+      audio:                         "Various Artists (Comedians)",
       video:                         "Storms"
     },
     gr3v1presence: {
-      presence:                      "Empathy",
-      audio:                         "Insight Timer",
-      video:                         "Soil"
+      focus:                         "empathy",
+      audio:                         "Heart Minded by Sarah Blondin",
+      video:                         "soil"
     },
     gr3v2music: {
-      music:                         "Schuman Resonance",
-      audio:                         "Kev Thompson Music",
-      video:                         "Water"
+      focus:                         "schuman resonance",
+      audio:                         "Various Artists (solfeggio frequencies)",
+      video:                         "water",
+      marketingSchedule:             “[link to b3now folder]”
     },
     gr3v3song: {
       songTitle:                     "Japanese Ceremonial Tea (Interlude)",
@@ -122,13 +160,17 @@ epicPlaylist: {
   },
   b4portfolio: {
     gr4v0create: {
-    
+      beatDrop:                      “10 section open source community conceptual design”,
+      
     },
     gr4v1habit: {
-    
+      habit_1:                        “1 d per week”,
+      habit_2:                        “link to b4portfolio folder on GitHub”
     },
     gr4v2wealth: {
-    
+      wealthGenerationTarget:        “$39,600/month”,
+      communityInvestmentTarget:     “$11,850/month”,
+      freelancerPayoutTarget:        “$27,750/month”
     },
     gr4v3song: {
       songTitle:                     "They Say I'm Different",
@@ -200,49 +242,8 @@ epicPlaylist: {
     
     }
   },
-}    
-```     
-      
-      
-      
-      
+}
 
-
-
-
-
-# b0mission/LP
-b0mission is an ourStory Framework for using music & book quotes to define the language & mission for any open source community. The architecture of b0mission/oS aims to be accessible to any community that wants to add depth and context to their shared vision. b0mission provides the foundation for the other buildig blocks from the ourStory Protocol. After completing the b0mission equation, you'll be on your way to creating a self-soverign ecosystem for your open source project.
-
-## Hash Function
-For beats 0 through 8, the ourStory Protocol uses SHA-256 Hash functions to encode the DNA of your open source community. The b0mission hash function takes four variables: `gr0v0song`, `gr0v1ego`, `gr0v2biomimicry`, and `gr0v3willpower`. Each of these will be defined below.
-```
-let b0mission/LP = SHA256(gr0ourSource);
-
-let gr0ourSource = {
-  longPlay:        "LP_NAME",
-  epicPlaylist:    "EP_Name",
-  gr0v0song:       "SONG_NAME by ARTIST",
-  gr0v1ego:        "BOOK_TITLE by AUTHOR",
-  gr0v2biomimicry: "BOOK_TITLE by AUTHOR",
-  gr0v3willpower:  "BOOK_TITLE by AUTHOR"
-};
-```
-## Variables
-
-## Examples
-```
-let b0mission/LP0_polymathProcess = SHA256(gr0ourSource);
-
-let gr0ourSource = {
-  longPlay:        "LP0_polymathProcess",
-  epicPlaylist:    "EP0_lessonPlan",
-  gr0v0song:       "0.00 by Childish Gambino",
-  gr0v1ego:        "A New Earth by Eckhart Tolle",
-  gr0v2biomimicry: "The Polymath by Waqas Ahmed",
-  gr0v3willpower:  "Tao Te Ching by Lao Tzu"
-};
-```
 
 ## What is huStory?
 _huStory: We're All Right_ is an open source collection of projects for The Planet, our ego, and the memes that shape our reality. polymathProcess is huStory's genesis LongPlay that develops the memetic outline that makes it easier for communities to collaborate while transforming any project into an original story game that engages a broad community. There's no player limit, and the projects run until people stop contributing.
