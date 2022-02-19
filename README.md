@@ -12,7 +12,7 @@ ep0_lessonPlan: {
       challengeQuestion:             "What challenge does this institution create?"
       challenge:                     "polarization",
 
-      egoQuestion:                   "What do you think is causing this challenge?"
+      egoQuestion:                   "What human trait do you think is contributing to this challenge?"
       ego:                           "fear",
 
       bookEgoQuestion:               “What book will represent this epicPlaylist’s persona?”,
@@ -22,8 +22,13 @@ ep0_lessonPlan: {
       gr0v0Output:                   "The Planet's __language__ institution is allowing egoic __fear__ to contribute to the universal challenge of __polarization__. We learn from __A New Earth: Awakening to Your Life's Purpose__ by __Eckhart Tolle__ to help deepen our understanding of our collective ego."
     },
     gr0v1biomimicry: {
+      natureMentorQuestion:          "What system in nature can use the challenge to create a benefit?",
       natureMentor:                  "cells",
+      
+      mentorBenefitQuestion:         "What benefit does the system in nature create from the challenge?,
       mentorBenefit:                 "growth",
+      
+      bookBioQuestion:               "What book will represent
       bookBioTitle:                  "Tao Te Ching",
       bookBioAuthor:                 "Lao Tzu (Stephen Mitchell Translation)",
       gr0v1Output:                   "__Cells__ use __polarization__ to create __growth__. We learn from __Tao Te Ching__ by __Lao Tzu__ to explore biomemetic perspectives for our universal challenges."
