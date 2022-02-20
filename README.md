@@ -202,10 +202,10 @@ ep0_lessonPlan: {
     
     },
     gr6v1spirituality: {
-    
+      videoInspiration:              "Initiation S1E1: Unity",
     },
     gr6v2consciousness: {
-    
+      videoInspiration:              "Mystery Teachings S1E1: Consciousness in the Quantum Paradigm",
     },
     gr6v3song: {
       songTitle:                     "Generationwhy",
