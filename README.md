@@ -199,10 +199,17 @@ ep0_lessonPlan: {
   },
   b6story: {
     gr6v0mythology: {
-    
+      videoInspiration:              "Imitation Game (Movie)",
+      treeSystemFeminine:            "Water",
+      personaFeminine:               "Katherine G. Johnson",
+      treeSystemMasculine:           "Soil",
+      personaMasculine:              "Alan Turing",
+      humanSystem:                   "Stem Cell",
+      personaHuman:                  "Shuri from Black Panther"
     },
     gr6v1spirituality: {
       videoInspiration:              "Initiation S1E1: Unity",
+      cartoonInspiration:            "Looney Toons"
     },
     gr6v2consciousness: {
       videoInspiration:              "Mystery Teachings S1E1: Consciousness in the Quantum Paradigm",
