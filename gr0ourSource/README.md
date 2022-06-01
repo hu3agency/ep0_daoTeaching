@@ -4,14 +4,10 @@
 
 ## gr0v0song
 
-<details><summary>Cool Dropdown</summary><br/>
-blah blah blah blah you found me!
-</details>
+- 0.0.1 [Song] — What song and artist will introduce your project?
 
-<details open>
-  <summary>0.0.1 [Song] — What song and artist will introduce your project?</summary>
-  <br>[0.00 by Childish Gambino](https://open.spotify.com/track/4Ksj9mKfsYC5b8v8Ey3c8I?si=180b24deaf4244db)
-</details>
+    [0.00 by Childish Gambino](https://open.spotify.com/track/4Ksj9mKfsYC5b8v8Ey3c8I?si=180b24deaf4244db)
+
 
 - 0.1.2 [Challenge] — What case study will you create to represent gr0ourSource for your project?
     
